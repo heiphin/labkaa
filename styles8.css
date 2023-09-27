@@ -1,0 +1,14 @@
+div {
+    color: green;
+    width: 200px;
+    height: 200px;
+    background:black ;
+    }
+.div1{
+    color: green;
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    text-align: center;
+    float: right;
+}
